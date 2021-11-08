@@ -26,6 +26,7 @@
     font-size: 17vw;
     font-family: 'Courier New', Courier, monospace;
     z-index: 0;
+    text-transform: uppercase;
 }
 
 .btn {
@@ -49,6 +50,7 @@ button {
     text-decoration: none;
     transition: all 0.4s;
     overflow: hidden;
+    text-transform: uppercase;
 }
 button:hover {
     color: black;
